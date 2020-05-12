@@ -12,7 +12,7 @@ gem install bundler
 
 ### Instalar as dependências do Ruby (projeto)
 `
-bunble install
+bundle install
 `
 
 ### Executar localmente (minha maquina)
